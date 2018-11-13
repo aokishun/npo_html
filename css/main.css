@@ -1336,7 +1336,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 p {
 	font-size: 14px;
 	line-height: 22.4px;
-	color: #6c7279;
+	color: #white;
 }
 h1 {
 	font-size: 65px;
@@ -1610,4 +1610,9 @@ ul li {
 	-ms-transform: translateY(0) rotate(-45deg);
 	-webkit-transform: translateY(0) rotate(-45deg);
 	transform: translateY(0) rotate(-45deg);
+}
+
+/* スクリーン文字 */
+.white p {
+  font-style: white;
 }
