@@ -274,7 +274,7 @@ figure figcaption {
   margin: 0 auto;
   padding: 2em 0;
   clear: both;
-  background-image: url(fb.png);     /* 背景画像指定 */
+  background-image: url("../image/fb.png");     /* 背景画像指定 */
   background-repeat: repeat-x;
   background-size: 20% ;
   background-position: 0% 96% ;
