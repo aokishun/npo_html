@@ -1406,9 +1406,7 @@ ul, ol {
 ul li {
 	list-style: none;
 }
-.section {
-	padding: 100px 0;
-}
+
 .no-padding {
 	padding: 0;
 }
